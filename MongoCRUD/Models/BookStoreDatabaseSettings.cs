@@ -1,4 +1,4 @@
-﻿namespace MongoCRUD.Models
+﻿namespace Mongo.CRUD.Models
 {
     /// <summary>
     /// appsettings.json 의 모델링

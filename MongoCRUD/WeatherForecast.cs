@@ -1,4 +1,4 @@
-namespace MongoCRUD
+namespace Mongo.CRUD
 {
     public class WeatherForecast
     {

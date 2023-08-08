@@ -9,7 +9,7 @@
     }
   },
   "profiles": {
-    "MongoCRUD": {
+    "Mongo.CRUD": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
