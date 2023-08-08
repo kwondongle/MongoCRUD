@@ -12,7 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ClassLibrary1\Mongo.Common.csproj" />
+    <ProjectReference Include="..\MongoCommon\Mongo.Common.csproj" />
   </ItemGroup>
 
 </Project>
