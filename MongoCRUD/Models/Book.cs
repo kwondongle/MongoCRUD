@@ -18,6 +18,6 @@ namespace Mongo.CRUD.Models
 
         public string Category { get; set; } = null!;
 
-        public string Author { get; set; } = null!;
+        public string Author { get; set; } = null!; 
     }
 }
