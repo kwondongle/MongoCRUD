@@ -50,8 +50,8 @@ public class BooksController : ControllerBase
     public async Task<IActionResult> Insert(Book newBook)
     {
         try
-        {
-            //System.Text.Json.JsonSerializerOptions options = new System.Text.Json.JsonSerializerOptions()
+        { 
+            //System.Text.Json.JsonSerializerOptions options = new System.Text.Json.JsonSerializerOptions() 
             //{
             //    Encoder = System.Text.Encodings.Web.JavaScriptEncoder.UnsafeRelaxedJsonEscaping,  
             //    WriteIndented = true,   
