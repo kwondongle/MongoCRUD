@@ -53,7 +53,7 @@ public class BooksController : ControllerBase
         { 
             //System.Text.Json.JsonSerializerOptions options = new System.Text.Json.JsonSerializerOptions() 
             //{
-            //    Encoder = System.Text.Encodings.Web.JavaScriptEncoder.UnsafeRelaxedJsonEscaping,      
+            //    Encoder = System.Text.Encodings.Web.JavaScriptEncoder.UnsafeRelaxedJsonEscaping,          
             //    WriteIndented = true,   
             //};
 
