@@ -57,7 +57,7 @@ public class BooksController : ControllerBase
             //    WriteIndented = true,   
             //};
 
-            ////var json = System.Text.Json.JsonSerializer.Serialize(fileFullPath, options);
+            ////var json = System.Text.Json.JsonSerializer.Serialize(fileFullPath, options); 
 
             //var itemJson = System.IO.File.ReadAllText(fileFullPath);
             //var books = System.Text.Json.JsonSerializer.Deserialize<List<Book>>(itemJson);
